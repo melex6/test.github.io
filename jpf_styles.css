@@ -40,9 +40,10 @@ header {
    background: gray;
 }
 
-header img#logoimg {
+header src="img/Soduku.png" {
    display: block;
    width: 100%;
+   
 }
 
 /* Navigation list styles */
